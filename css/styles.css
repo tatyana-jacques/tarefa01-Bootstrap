@@ -1,0 +1,15 @@
+.container{
+    margin: 100px auto;
+    padding: 0 20px;
+
+}
+.col{
+    height: 80px;
+    border: 2px dotted black;
+}
+.par{
+    background-color: darkslateblue;
+}
+.impar{
+    background-color: cornflowerblue;
+}
